@@ -1,0 +1,306 @@
+#EXTM3U
+############################CANAIS#########################
+
+
+#EXTINF:-1 tvg-id="CANAIS 4K" tvg-logo="https://stcotvfoco.com.br/2014/06/sbt-infantil.jpg" group-title="TV ABERTA", SBT UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/39676.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE ESPORTES", FOX 4 UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28589.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.EWFEc_XxvabMs1UGoMaPHwHaEF&pid=Api&P=0&w=278&h=153" group-title="CANAIS DE FILMES", MEGAPIX UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/40784.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZSvbwAQcnq3FRpEUIoK5eAHaEp&pid=Api&P=0&w=276&h=173" group-title="CANAIS DE FILMES", TNT UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/39648.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/espn-1.jpg" group-title="CANAIS DE ESPORTES", ESPN UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/98901.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28590.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://1.bp.blogspot.com/-l61jxVTJ8uY/XZeihkqlB5I/AAAAAAAAAOU/tFEDKZH61zkTa2iE6uKraZWWCBxMN8LIACNcBGAsYHQ/w100/69a418f51673a009d34dc38e13d9b7da.jpg" group-title="TV ABERTA", GLOBO UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28586.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.rP4AhzIsCBFRzAbyyDkRbAHaE7&pid=Api&P=0&w=239&h=159" group-title="TV ABERTA", RECORD UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/39677.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse4.mm.bing.net/th?id=OIF.5mj%2f6rJ%2f0TzWO6dz%2fU31Xw&pid=Api&P=0&w=194&h=105" group-title="TV ABERTA", BAND UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/39410.ts
+
+#EXTINF:-1 tvg-id="VARIEDADES" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.aVXm0QmrOlog4BdEUIbCfQHaFL&pid=Api&P=0&w=259&h=181" group-title="VARIEDADES", ANIMAL PLANET UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/109538.ts
+
+#EXTINF:-1 tvg-id="FILMES SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.RVv80dxqmJwuNx2yksyppwHaEc&pid=Api&P=0&w=285&h=171" group-title="CANAIS DE FILMES", AXN UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122144.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://1.bp.blogspot.com/-Wnt11nub_Ow/XkQ0GivbsYI/AAAAAAAAAUY/DRUEb5cPcfwNRHh0doIUqdCOyo6_sopGACNcBGAsYHQ/w640/Assistir%2BDiscovery%2BChannel%2Bao%2Bvivo%2Bonline%2B24%2Bhoras.jpg" group-title="CANAIS INFANTIS", CARTOON NETWORK UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122247.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXkP00ygOdp9x9crIC1sxrSxjqaXQX7m8FQ&usqp=CAU" group-title="TV ABERTA", CNN BRASIL UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122146.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLKOVR2Pi6ID__3IIyRMKtEnHPtGaXgWW5Q&usqp=CAU" group-title="CANAIS DE ESPORTES", COMBAT UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28587.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.gAMOH7e5GM4QiuQDM-_8xwHaE-&pid=Api&P=0&w=228&h=153" group-title="CANAIS DE FILMES", COMEDY CENTRAL UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122245.ts
+
+#EXTINF:-1 tvg-id="VARIEDADES" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="VARIEDADES", DISCOVERY HEAMP-H&H
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122243.ts
+
+#EXTINF:-1 tvg-id="VARIEDADES" tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="VARIEDADES", DISCOVERY TURBO UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122246.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFHL-U_2rk2rEE3PWdQ9f8EmrcIV9B1fr7IrkkTy-dKgc-fwA&s" group-title="CANAIS DE ESPORTES", ESPN BRASIL UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122251.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5KAZsihgD3ALEXR9-nDw_Viluqx7A5DFkQ&usqp=CAU" group-title="CANAIS DE ESPORTES", FOX SPORT 2
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/40785.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvu7mtENb0LF4hH7h4Q-OfxHvT8a71LHpEFW8PcnrDKUAklpL&s" group-title="CANAIS DE ESPORTES", ESPN 4 UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28589.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE ESPORTES", FOX UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/98909.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE CLUBE UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/28588.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.zH67AIhI_2m7Sw-JbQhgAgHaEe&pid=Api&P=0&w=284&h=172" group-title="TV ABERTA", REDE TV UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/39678.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.iXQIBXKnaYthKxekDAnxiQHaD_&pid=Api&P=0&w=309&h=166" group-title="CANAIS DE FILMES", SPACE UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/98902.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE ACTION UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122250.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE PIPOCA UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/98908.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE PREMIUM UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/98903.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.76LZI6XdpaV_11RFX9nJXQHaD3&pid=Api&P=0&w=342&h=178" group-title="CANAIS DE FILMES", UNIVERSAL CHANNEL UHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/122249.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse3.mm.bing.net/th?id=OIF.YPjFI%2fHy9FNJfLkHnVnong&pid=Api&P=0&w=153&h=79" group-title="CANAIS DE FILMES", A&E H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34822.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5BRzsPFUQJu7VlMvOeXIIgHaDo&pid=Api&P=0&w=337&h=165" group-title="CANAIS DE FILMES", AMC H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34821.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.RVv80dxqmJwuNx2yksyppwHaEc&pid=Api&P=0&w=285&h=171" group-title="CANAIS DE FILMES", AXN H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34902.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse4.mm.bing.net/th?id=OIF.5mj%2f6rJ%2f0TzWO6dz%2fU31Xw&pid=Api&P=0&w=194&h=105" group-title="TV ABERTA", BAND NEWS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34900.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS INFANTIS", BOOMERANG H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34897.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://1.bp.blogspot.com/-Wnt11nub_Ow/XkQ0GivbsYI/AAAAAAAAAUY/DRUEb5cPcfwNRHh0doIUqdCOyo6_sopGACNcBGAsYHQ/w640/Assistir%2BDiscovery%2BChannel%2Bao%2Bvivo%2Bonline%2B24%2Bhoras.jpg" group-title="CANAIS INFANTIS", CARTOON NETWORK H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34895.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/08/novo-logo-cinemax.jpg" group-title="CANAIS DE FILMES", CINEMAX H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34894.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo-768x480.png" group-title="CANAIS DE FILMES", DISNEY CHANNEL H265
+hhttp://5ce.me:80/live/luis111carlos99/5t122aaghhh/34883.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLKOVR2Pi6ID__3IIyRMKtEnHPtGaXgWW5Q&usqp=CAU" group-title="CANAIS DE ESPORTES", COMBAT H265
+hhttp://5ce.me:80/live/luis111carlos99/5t122aaghhh/34893.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://img.elo7.com.br/product/zoom/62E5C0/painel-discovery-kids.jpg" group-title="CANAIS INFANTIS",DISCOVERY KIDS h265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34888.ts
+
+#EXTINF:-1 tvg-id="VARIEDADES" tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="VARIEDADES", DISCOVERY TURBO H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34885.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS DE ESPORTES", ESPN 3 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34881.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFHL-U_2rk2rEE3PWdQ9f8EmrcIV9B1fr7IrkkTy-dKgc-fwA&s" group-title="CANAIS DE ESPORTES", ESPN BRASIL H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34880.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/Logo_ESPN_Extra.png" group-title="CANAIS DE ESPORTES", ESPN EXTRA H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/42467.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/espn-1.jpg" group-title="CANAIS DE ESPORTES", ESPN H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34879.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE ESPORTES", FOX H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34877.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE FILMES", FOX LIFE H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34876.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE ESPORTES", FOX 2 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34875.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.A7QR9CWeLXrAUUgMLuC6QwHaDF&pid=Api&P=0&w=377&h=157" group-title="CANAIS DE ESPORTES", FOX ESPORT H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34874.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://spinoff.com.br/wp-content/uploads/FX-HD-logo.jpg" group-title="CANAIS DE FILMES", FX H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34873.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://1.bp.blogspot.com/-l61jxVTJ8uY/XZeihkqlB5I/AAAAAAAAAOU/tFEDKZH61zkTa2iE6uKraZWWCBxMN8LIACNcBGAsYHQ/w100/69a418f51673a009d34dc38e13d9b7da.jpg" group-title="TV ABERTA", GLOBO MINAS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/63846.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/GloboNews_Logo_1996.png/revision/latest?cb=20191202233304" group-title="TV ABERTA", GLOBO NEWS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34872.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://1.bp.blogspot.com/-l61jxVTJ8uY/XZeihkqlB5I/AAAAAAAAAOU/tFEDKZH61zkTa2iE6uKraZWWCBxMN8LIACNcBGAsYHQ/w100/69a418f51673a009d34dc38e13d9b7da.jpg" group-title="TV ABERTA", GLOBO SP H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/61426.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://1.bp.blogspot.com/-l61jxVTJ8uY/XZeihkqlB5I/AAAAAAAAAOU/tFEDKZH61zkTa2iE6uKraZWWCBxMN8LIACNcBGAsYHQ/w100/69a418f51673a009d34dc38e13d9b7da.jpg" group-title="TV ABERTA", GLOBO ENHAGUERA H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34869.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS DE FILMES", HBO 2 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34866.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="CANAIS DE FILMES", HBO FAMILY H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34865.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://2.bp.blogspot.com/-GzkYvz9TO7U/W7fzLgX1-HI/AAAAAAAADuQ/fng4BcUED9kct6MG-btcGEoUgh23bOZ8QCLcBGAs/s1600/image1.jpg" group-title="CANAIS DE FILMES", HBO H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34864.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest?cb=20200216144600&path-prefix=pt-br" group-title="CANAIS DE FILMES", HBO MUNDI H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34858.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://teleguiado.com/wp-content/uploads/2018/12/hboplus-1536x864.jpg" group-title="CANAIS DE FILMES", HBO PLUS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34863.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="CANAIS DE FILMES", HBO POP H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34856.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CANAIS DE FILMES", HBO SIGNATURE H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34862.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CANAIS DE FILMES", HBO EXTREME H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34857.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.EWFEc_XxvabMs1UGoMaPHwHaEF&pid=Api&P=0&w=278&h=153" group-title="CANAIS DE FILMES", MEGAPIX H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34855.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIS", NICK JR h265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34848.ts
+
+#EXTINF:-1 tvg-id="DESENHOS KIDS" tvg-logo="https://mixdeseries.com.br/wp-content/uploads/2022/05/Nickelodeon-Logo.jpg" group-title="CANAIS INFANTIS", NICKELODELON h265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34849.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://4.bp.blogspot.com/-t_fa5KqTm8A/WA4wOhycBgI/AAAAAAAAxiQ/aiDTD6B8yB89OsWCmrqnIqhLrHMnS9SVwCLcB/s640/paramount.png" group-title="CANAIS DE FILMES", PARAMOUNT CHANNEL H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34847.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 2 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34846.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 3 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34845.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 4 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34844.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 5 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34843.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 6 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34842.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE 7 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34841.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQo93SQ6XVdm1a-9YLQzr3bdoJx3Dkg7OGsA&usqp=CAU" group-title="CANAIS DE ESPORTES", PREMIERE CLUBE H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34840.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.rP4AhzIsCBFRzAbyyDkRbAHaE7&pid=Api&P=0&w=239&h=159" group-title="TV ABERTA", RECORD H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/63847.ts
+
+#EXTINF:-1 tvg-id="TV ABERTA" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.zH67AIhI_2m7Sw-JbQhgAgHaEe&pid=Api&P=0&w=284&h=172" group-title="TV ABERTA", REDE TV H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/42473.ts
+
+#EXTINF:-1 tvg-id="CANAIS 4K" tvg-logo="https://stcotvfoco.com.br/2014/06/sbt-infantil.jpg" group-title="TV ABERTA", SBT SERRA DOURADA H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/42481.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Sony-1.jpg" group-title="CANAIS DE FILMES", SONY CHANNEL H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34896.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.iXQIBXKnaYthKxekDAnxiQHaD_&pid=Api&P=0&w=309&h=166" group-title="CANAIS DE FILMES", SPACE H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34838.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 2 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34837.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 3 H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34836.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34835.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.76LZI6XdpaV_11RFX9nJXQHaD3&pid=Api&P=0&w=342&h=178" group-title="CANAIS DE FILMES", UNIVERSAL STUDIOS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34834.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE ACTION H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34832.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE CULTO H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34831.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE FUN H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34830.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE PIPOCA H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34829.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE PREMIUM H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34828.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZpX9sHOHg5MYlSh5nZtstQHaE8&pid=Api&P=0&w=266&h=177" group-title="CANAIS DE FILMES", TELECINE TOUCH H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34827.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/tnt-1.jpg" group-title="CANAIS DE FILMES", TNT H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34826.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/TNT-Series-1.jpg" group-title="CANAIS DE FILMES", TNT SERIES H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34825.ts
+
+#EXTINF:-1 tvg-id="FILMES E SERIES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.76LZI6XdpaV_11RFX9nJXQHaD3&pid=Api&P=0&w=342&h=178" group-title="CANAIS DE FILMES", UNIVERSAL CHANNEL H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/34824.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/BAND-SPORTS-1-1.jpg" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", BAND SPORTS H265
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6637.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_logo.jpg?20100713162111" group-title="CANAIS DE ESPORTES", FOX SPORTS 2 FHD 1
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/10363.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_logo.jpg?20100713162111" group-title="CANAIS DE ESPORTES", FOX SPORTS 2 FHD 2
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/16851.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV FHD 1
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6928.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV FHD 2
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/16821.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 2 FHD 1
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6942.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 2 FHD 2
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/16819.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 3 FHD 1
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/10371.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxsyGjt9f8udAPvhWbF2xmwWZrihT4vU-qQ&usqp=CAU" group-title="ESPORTE" group-title="CANAIS DE ESPORTES", SPORTV 3 FHD 2
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6916.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/espn-1.jpg" group-title="CANAIS DE ESPORTES", ESPN FHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6958.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/espn-1.jpg" group-title="CANAIS DE ESPORTES", ESPN 2 FHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/6932.ts
+
+#EXTINF:-1 tvg-id="ESPORTES" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/espn-1.jpg" group-title="CANAIS DE ESPORTES", ESPN 3 FHD
+http://5ce.me:80/live/luis111carlos99/5t122aaghhh/26155.ts
